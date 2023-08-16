@@ -1,10 +1,10 @@
-## Step 1: Build packages &  Start the Metro Server
+## Step 1: Install packages &  Start the Metro Server
 
 ```bash
 # build + start
 yarn restart
 
-# OR just start
+# OR just start, when packages are already installed
 yarn start
 ```
 
