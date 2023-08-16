@@ -41,7 +41,7 @@ function App(): JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <LottieView
-            loop={false}
+            loop
             autoPlay
             style={{
               width: 69,
